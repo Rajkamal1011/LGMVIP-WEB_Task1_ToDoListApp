@@ -1,9 +1,10 @@
 
+import Todo from "./components/todoreact/todo";
 
 function App() {
   return (
     <>
-      <h1>Hello Wrold!</h1>
+      <Todo/>
     </>
   );
 }
